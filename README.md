@@ -1,4 +1,4 @@
-# Pengukur Objek Real-time (Real-time Object Measurer)
+# Real-time Object Measurer
 
 A web-based application that uses your webcam to detect and measure objects in real-time using OpenCV.js.
 
